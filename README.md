@@ -1,4 +1,4 @@
-# zero-shot
+# Zero-Shot
 It's under Machine Learning(ML) which is used to predict objects into classes which are difficult for classification. 
 So I have been reading about stuffs like colour recognition and also some of stuffs like recognition of diseases which come under machine learning and then I knew about the zero shot learning.
 It basically classify objects that are negligible or difficult to recognize.
